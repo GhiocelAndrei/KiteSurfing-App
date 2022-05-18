@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@chakra-ui/react": "^2.0.0",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@googlemaps/react-wrapper": "^1.1.33",
+    "@react-google-maps/api": "^2.10.2",
+    "axios": "^0.27.2",
+    "es6-promise": "^4.2.8",
+    "framer-motion": "^6.3.3",
+    "google-map-react": "^2.1.10",
+    "isomorphic-fetch": "^3.0.0",
+    "react-map-gl": "^7.0.12"
+  }
+}
